@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm SurvivalMode!</h1>
+
 - 🔭 I’m currently working on **learning some python**
 
 - 👨‍💻 All of my projects are available at [survivalmodetv.de](https://survivalmodetv.de)
